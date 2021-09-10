@@ -1,0 +1,5 @@
+path_to_training_data: "HousingPrices/train.csv"
+LOD_vars: ['Id']
+Target_var: ['SalePrice']
+Target_var_cont: True
+path_to_outputs: "HousingPrices/ToPlotInTableau/"

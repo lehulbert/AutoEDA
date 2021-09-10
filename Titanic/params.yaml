@@ -1,0 +1,5 @@
+path_to_training_data: "Titanic/train.csv"
+LOD_vars: ['PassengerId']
+Target_var: ['Survived']
+Target_var_cont: False
+path_to_outputs: "Titanic/ToPlotInTableau/"
