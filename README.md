@@ -1,6 +1,6 @@
 # AutoEDA
 
-Automated EDA for general data sets as well as for classifiction & regression problems, specifically. 
+Automated EDA for general data sets as well as for classification  & regression problems, specifically. 
 
 Requirements: Tableau access
 
