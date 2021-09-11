@@ -11,14 +11,28 @@ Requirements: Tableau access
 # Sample Visuals for General EDA
 ![alt text](https://github.com/lehulbert/AutoEDA/blob/master/Screenshots/Categorical%20Summary.png?raw=true)
 
+![alt text](https://github.com/lehulbert/AutoEDA/blob/master/Screenshots/Categorical%20Bar%20Charts.png?raw=true)
 
+![alt text](https://github.com/lehulbert/AutoEDA/blob/master/Screenshots/Continuous%20Summary.png?raw=true)
+
+![alt text](https://github.com/lehulbert/AutoEDA/blob/master/Screenshots/Continuous%20Distributions.png?raw=true)
+
+![alt text](https://github.com/lehulbert/AutoEDA/blob/master/Screenshots/Correlation%20Matrix.png?raw=true)
+
+![alt text](https://github.com/lehulbert/AutoEDA/blob/master/Screenshots/Correlation%20BarChart.png?raw=true)
 
 # Sample Visuals for data with Binary Target  
+![alt text](https://github.com/lehulbert/AutoEDA/blob/master/Screenshots/Cat%20Target%20Summary.png?raw=true)
 
+![alt text](https://github.com/lehulbert/AutoEDA/blob/master/Screenshots/cat%20feat%20vs.%20cat%20target.png?raw=true)
 
-
-
-
+![alt text](https://github.com/lehulbert/AutoEDA/blob/master/Screenshots/Cat%20Feat%20vs.%20Cont%20Target.png?raw=true)
 
 # Sample Visuals for data with Continuous Target 
+![alt text](__?raw=true)
+
+![alt text](https://github.com/lehulbert/AutoEDA/blob/master/Screenshots/Scatterplot.png?raw=true)
+
+![alt text](https://github.com/lehulbert/AutoEDA/blob/master/Screenshots/Cat%20Feat%20vs.%20Cont%20Target.png?raw=true)
+
 
